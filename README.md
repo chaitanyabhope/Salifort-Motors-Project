@@ -1,7 +1,7 @@
 # 🚗 Salifort Motors – Employee Data Analysis  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/data-science/data-science.png" width="200" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
 </p>  
 
 ## 📌 Project Overview  
